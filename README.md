@@ -12,7 +12,7 @@
 
 <div align="center">
   
-### 💫 Building the future, one line of code at a time 💫
+### 💫 Building the future, one line of code at a time  💫
 
 </div>
 
