@@ -204,7 +204,7 @@
 
 <div align="center">
 
-### 😄 Pronouns: **He/Him**
+### 😄 Pronouns:  **He/Him**
 
 ### 🎯 Current Mood
 ```javascript
